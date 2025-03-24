@@ -24,7 +24,7 @@
         android:layout_marginStart="24dp"
         android:layout_marginTop="24dp"
         android:layout_marginEnd="24dp"
-        android:text="Clique em um do botoes para exibir frases"
+        android:text="Clique em um dos botoes para exibir frases"
         android:textAlignment="center"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
